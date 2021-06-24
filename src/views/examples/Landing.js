@@ -274,11 +274,9 @@ class Landing extends React.Component {
                     <div className="icon icon-lg icon-shape icon-shape-success shadow rounded-circle mb-5">
                       <i className="ni ni-settings-gear-65" />
                     </div>
-                    <h3>Awesome features</h3>
+                    <h3>What DO You Get When You Work With Me</h3>
                     <p>
-                      The kit comes with three pre-built pages to help you get
-                      started faster. You can change the text and images and
-                      you're good to go.
+                    When you work with me, you will get excellent advantages, as you can always take advantage of these advantages as our goal is to satisfy the customer.
                     </p>
                     <ul className="list-unstyled mt-5">
                       <li className="py-2">
@@ -293,7 +291,7 @@ class Landing extends React.Component {
                           </div>
                           <div>
                             <h6 className="mb-0">
-                              Carefully crafted components
+                            Fast Delivery
                             </h6>
                           </div>
                         </div>
@@ -309,7 +307,7 @@ class Landing extends React.Component {
                             </Badge>
                           </div>
                           <div>
-                            <h6 className="mb-0">Amazing page examples</h6>
+                            <h6 className="mb-0">Professional Work</h6>
                           </div>
                         </div>
                       </li>
@@ -325,7 +323,7 @@ class Landing extends React.Component {
                           </div>
                           <div>
                             <h6 className="mb-0">
-                              Super friendly support team
+                            Debugging Any Time
                             </h6>
                           </div>
                         </div>
@@ -336,6 +334,9 @@ class Landing extends React.Component {
               </Row>
             </Container>
           </section>
+
+{/* 
+
           <section className="section bg-secondary">
             <Container>
               <Row className="row-grid align-items-center">
@@ -375,6 +376,7 @@ class Landing extends React.Component {
                   </Card>
                 </Col>
                 <Col md="6">
+
                   <div className="pl-md-5">
                     <div className="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5">
                       <i className="ni ni-settings" />
@@ -408,7 +410,7 @@ class Landing extends React.Component {
                 </Col>
               </Row>
             </Container>
-          </section>
+          </section> */}
 
           {/* <section className="section pb-0 bg-gradient-warning">
             <Container>
@@ -514,6 +516,9 @@ class Landing extends React.Component {
               </svg>
             </div>
           </section> */}
+
+
+{/*           
           
           <section className="section section-lg">
             <Container>
@@ -701,7 +706,7 @@ class Landing extends React.Component {
               </Row>
             </Container>
           </section>
-
+ */}
 
 
 
