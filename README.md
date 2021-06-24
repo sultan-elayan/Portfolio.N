@@ -234,6 +234,7 @@ Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 <!-- =============================================================== -->
 
 https://60d45d2394ebdcfb7ebf23b1--cocky-swirles-d4c47c.netlify.app/ diploying netlify link
+https://60d4672f1bfea50007905ec1--cocky-swirles-d4c47c.netlify.app/
 
 
 <!-- =============================================================== -->
