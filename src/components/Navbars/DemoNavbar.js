@@ -179,9 +179,9 @@ class DemoNavbar extends React.Component {
                       <span className="nav-link-inner--text">Menu</span>
                     </DropdownToggle>
                     <DropdownMenu>
-                      {/* <DropdownItem to="/landing-page" tag={Link}>
+                      <DropdownItem to="/landing-page" tag={Link}>
                         Landing
-                      </DropdownItem> */}
+                      </DropdownItem>
                       <DropdownItem to="/profile-page" tag={Link}>
                         Profile
                       </DropdownItem>
@@ -236,7 +236,7 @@ class DemoNavbar extends React.Component {
                     >
                       <i className="fa fa-twitter-square" />
                       <span className="https://twitter.com/SultanOlian">
-                        Twitter
+                      
                       </span>
                     </NavLink>
                     <UncontrolledTooltip delay={0} target="tooltip184698705">
@@ -260,7 +260,7 @@ class DemoNavbar extends React.Component {
                     </UncontrolledTooltip>
                   </NavItem>
                   <NavItem className="d-none d-lg-block ml-lg-4">
-                    <Button
+                    {/* <Button
                       className="btn-neutral btn-icon"
                       color="default"
                       href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-navbar"
@@ -269,10 +269,10 @@ class DemoNavbar extends React.Component {
                       <span className="btn-inner--icon">
                         <i className="fa fa-cloud-download mr-2" />
                       </span>
-                      {/* <span className="nav-link-inner--text ml-1">
+                      <span className="nav-link-inner--text ml-1">
                         Download
-                      </span> */}
-                    </Button>
+                      </span>
+                    </Button> */}
                   </NavItem>
                 </Nav>
               </UncontrolledCollapse>
