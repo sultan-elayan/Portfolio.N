@@ -36,7 +36,7 @@ ReactDOM.render(
       <Route path="/how-to" exact render={props => <Index {...props} />} />
 
       <Route
-        path="/portfolio"
+        path="landing-page"
         exact
         render={props => <Landing {...props} />}
       />
