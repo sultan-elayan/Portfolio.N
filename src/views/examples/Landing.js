@@ -276,7 +276,7 @@ class Landing extends React.Component {
                     </div>
                     <h3>What DO You Get When You Work With Me</h3>
                     <p>
-                    When you work with me, you will get excellent advantages, as you can always take advantage of these advantages as our goal is to satisfy the customer.
+                    When you work with me, you will get excellent benefits , as you can always take advantage of them , as our goal is to satisfy the customer.
                     </p>
                     <ul className="list-unstyled mt-5">
                       <li className="py-2">
