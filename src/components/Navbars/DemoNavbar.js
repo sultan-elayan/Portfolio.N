@@ -230,13 +230,13 @@ class DemoNavbar extends React.Component {
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
-                      href="https://twitter.com/creativetim"
+                      href="https://twitter.com/SultanOlian"
                       id="tooltip184698705"
                       target="_blank"
                     >
                       <i className="fa fa-twitter-square" />
-                      <span className="https://twitter.com/SultanOlian">
-                      
+                      <span className="nav-link-inner--text d-lg-none ml-2">
+                      Twitter
                       </span>
                     </NavLink>
                     <UncontrolledTooltip delay={0} target="tooltip184698705">
